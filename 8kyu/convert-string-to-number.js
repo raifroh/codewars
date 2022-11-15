@@ -18,4 +18,5 @@ function stringToNumber(str){
   }
   
   stringToNumber('1234')
-  
+
+
